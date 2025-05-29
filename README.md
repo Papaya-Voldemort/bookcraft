@@ -220,13 +220,9 @@ module.exports = { User, Document };
 ---
 
 ## Notes for LLM
-- Assist with generating code for user authentication, real-time collaboration, and rich text editing.
+- Assist with generating code for user authentication, real-time collaboration, and rich text editing as well as the rest of the application.
 - Provide troubleshooting help for WebSocket implementation and React state management.
 - Suggest best practices for secure and scalable deployment.
+- Make sure to guild the user with the entire set up.
 
 ---
-
-**End of Pre-Project README**
-```
-
-This README now includes details for **user authentication** and **real-time collaboration** using tools like Firebase, Socket.IO, and React. Let me know if you'd like help building out specific components or writing the code! 🚀
